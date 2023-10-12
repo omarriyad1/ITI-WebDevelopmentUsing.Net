@@ -1,0 +1,15 @@
+C:\Users\pgalf\Desktop\D05\D05\bin\Debug\net6.0\D05.exe
+C:\Users\pgalf\Desktop\D05\D05\bin\Debug\net6.0\D05.deps.json
+C:\Users\pgalf\Desktop\D05\D05\bin\Debug\net6.0\D05.runtimeconfig.json
+C:\Users\pgalf\Desktop\D05\D05\bin\Debug\net6.0\D05.dll
+C:\Users\pgalf\Desktop\D05\D05\bin\Debug\net6.0\D05.pdb
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.csproj.AssemblyReference.cache
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.AssemblyInfoInputs.cache
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.AssemblyInfo.cs
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.csproj.CoreCompileInputs.cache
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.dll
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\refint\D05.dll
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.pdb
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\D05.genruntimeconfig.cache
+C:\Users\pgalf\Desktop\D05\D05\obj\Debug\net6.0\ref\D05.dll
